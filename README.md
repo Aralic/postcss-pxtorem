@@ -12,6 +12,7 @@
 
 ### 初始化
 
+    npm install
     node index.js init
 
 当前目录生成pxtorem.json 配置文件
