@@ -1,0 +1,12 @@
+a {
+    width: 100px;
+    height: .1px;
+    background: red;
+    border: 1px solid red;
+}
+
+@media screen and (max-width: 100px) {
+    body {
+        width: 100px;
+    }
+}
