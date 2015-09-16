@@ -8,5 +8,6 @@ a {
 @media screen and (max-width: 100px) {
     body {
         width: 5rem;
+        height: 5rem;        
     }
 }

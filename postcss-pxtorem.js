@@ -1,3 +1,9 @@
+/**
+*
+* @file     pxtorem转换
+* @author   aralic(aralic@163.com)
+* @date     2015-09-14
+*/
 var postcss = require('postcss');
 
 module.exports = postcss.plugin('postcss-pxtorem', function(opts) {
